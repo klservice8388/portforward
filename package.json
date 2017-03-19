@@ -1,6 +1,6 @@
 {
-  "name": "portforward",
-  "version": "1.0.0",
+  "name": "klservice-portforward",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
