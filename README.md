@@ -1,6 +1,6 @@
 # KLService portward
 
-基于nodejs写的端口转发，并支持流量计数和统计总的连接数 http://45.32.30.142
+基于nodejs写的端口转发，并支持流量计数和统计总的连接数 http://45.32.30.142/status/
 
 
 
